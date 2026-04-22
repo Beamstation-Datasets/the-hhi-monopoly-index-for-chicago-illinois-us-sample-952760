@@ -9,9 +9,9 @@
 | Dataset ID | `952760` |
 | Location | Chicago |
 | Category | Restaurants |
-| Full dataset size | 27 records |
-| Free sample size | 2 records (7.41%) |
-| Last export | 2026-04-14T22:42:02.655736+00:00 |
+| Full dataset size | 24 records |
+| Free sample size | 2 records (8.33%) |
+| Last export | 2026-04-22T01:42:05.665389+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-chicago-illinois-us-sample-952760/releases/download/sample-latest/beamstation_952760_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
