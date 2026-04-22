@@ -1,12 +1,12 @@
 {
-  "export_job_id": "180b8bf6-7f50-4570-b07a-0af3ca78e42b",
+  "export_job_id": "c1e91eae-11a9-4756-b9f7-4a4b0b01f1f0",
   "id_short": 952760,
-  "published_at": "2026-04-19T07:18:51Z",
+  "published_at": "2026-04-22T19:10:31Z",
   "repo_name": "the-hhi-monopoly-index-for-chicago-illinois-us-sample-952760",
   "sample_asset_name": "beamstation_952760_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/952760/beamstation_952760_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_records": 2,
-  "sample_sha256": "e33f9fdcd1592dee3258ae79401e6963dce8bf53aecbafbd193fca9eb3782404",
-  "sample_size_bytes": 23856,
-  "total_records": 27
+  "sample_sha256": "102f133a6ddd47d5b08f1d97718be3f170a3613f6aaa51f5331adcdccc9b2a1b",
+  "sample_size_bytes": 23860,
+  "total_records": 24
 }
